@@ -31,7 +31,7 @@ Para testar este projeto localmente:
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd modal-popup
+    cd sistema-de-tarefas
     ```
 3.  **Abra o arquivo `index.html`:**
     Basta abrir o arquivo `index.html` diretamente no seu navegador.
